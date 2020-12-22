@@ -1,0 +1,3 @@
+RADIO (+de chance de truover survivant), puits (comme jardins mais pour eau, il faut une pelle)
+SURVIVANTS AJOUTé AUTO (tous les 3 jours et augmente progressivement genre apres tous les 10 jours)
+Mode difficile -> surcharge constructeur sans eau et sans nourriture au début
