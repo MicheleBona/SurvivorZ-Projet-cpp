@@ -2,22 +2,25 @@
 #include <string>
 #include <iostream>
 #include <random>
-//#include "communaute.hh"
 
 class survivant
 {
 public:
-	survivant(string nom);
+	survivant();
+	//survivant(bool malade);
 	survivant(const survivant & s); //copy
 	~survivant();
 	// Getters
-	string getNom();
-	bool getEtatSante();
-	bool getTravail();
+	bool getEtatSante() const { return this -> estMalade;}
+	bool getBusy() const { return this -> estBusy;}
+	// des setters plutot
+	void devientBusy() {this -> estBusy = true;}
+	void devientMalade() {this -> estMalade = true;}
+	void devientGueri() {this -> estMalade = false;}
 	// Surcharge
 	// Methodes
 private:
-	string Nom;
+	//id ?
 	bool estMalade;
-	bool Travaille;
+	bool estBusy; // friens ou protected ?
 };
