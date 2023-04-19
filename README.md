@@ -1,4 +1,5 @@
 # SurvivorZ-Projet-c++  
-Projet de c++ de MAIN 4 de Michele BONA et Rihab KHLIFI  
+Projet de C++ de MAIN 4 fait par Michele BONA 
 Tout le code nécessaire est dans le dossier code.
-[embed]http://MicheleBona/SurvivorZ-Projet-cppProjet_C__.pdf[/embed]
+[Le rapport de ce projet](/MicheleBona/SurvivorZ-Projet-cppProjet_C__.pdf)
+
